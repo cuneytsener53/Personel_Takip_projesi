@@ -1,0 +1,1 @@
+Data Source=KOMET34DC;Initial Catalog=PersonelVeriTabani;Persist Security Info=True;User ID=sa;Password=***********
