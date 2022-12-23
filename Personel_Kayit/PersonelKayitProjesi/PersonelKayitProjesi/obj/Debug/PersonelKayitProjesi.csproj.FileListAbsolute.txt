@@ -1,0 +1,14 @@
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\bin\Debug\PersonelKayitProjesi.exe.config
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\bin\Debug\PersonelKayitProjesi.exe
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\bin\Debug\PersonelKayitProjesi.pdb
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.csproj.AssemblyReference.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.Properties.Resources.resources
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.csproj.GenerateResource.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.exe
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.pdb
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.Frmİstatistik.resources
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.FrmAnaForm.resources
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.FrmGrafik.resources
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Personel_Kayit\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.FrmGiris.resources
